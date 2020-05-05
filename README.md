@@ -17,7 +17,7 @@ The dataset we used in this project is available with the following headings.
     * *Training* - 30s; *Validation* - 10s; *Test* - 10s; scraped from 3 different YouTube videos.
 1. DS3: 
     * Non-Drone acoustic profiles collected experimentally and scraped from YouTube videos.
-    * Scraped from YouTube videos - **Vehicle Sound in a Busy Road**; **Humming of Bees**; **Humans Talking**.
+    * Scraped from YouTube videos - **Vehicle Sound in a Busy Road**; **Buzzing of Bees**; **Humans Talking**.
     * Experimentally collected - **Calm Environment** 
     * *Training* - 30s; *Validation* - 10s; *Test* - 10s; scraped from 3 different YouTube videos/ captured on 3 different sessions.
 1. DS4: 
