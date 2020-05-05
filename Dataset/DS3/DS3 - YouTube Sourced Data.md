@@ -1,10 +1,10 @@
 # YouTube Sourced Data
 
 1. Busy Road Noise	
-    * [Training](https://www.youtube.com/watch?v=bz4t22DnDxM)	(30s); [Validation](https://www.youtube.com/watch?v=E8R9SrxqHtQ)	(10s); [Testing](https://www.youtube.com/watch?v=cINDPOLTJQo)	(10s)
+    * [Training](https://www.youtube.com/watch?v=zGnKNyBc0DQ&t=35s)	(30s); [Validation](https://www.youtube.com/watch?v=fh3EdeGNKus)	(10s); [Testing](https://www.youtube.com/watch?v=cUpox5jGdRQ)	(10s)
 			
-1. Bee Humming	
-    * [Training](https://www.youtube.com/watch?v=B9I5EfKcsHs)	(30s); [Validation](https://www.youtube.com/watch?v=Jf6MHeJoYRA)	(10s); [Testing](https://www.youtube.com/watch?v=cDcvlbBT98Y)	(10s)
+1. Bee Buzzing	
+    * [Training](https://www.youtube.com/watch?v=oHGt91cTSy4)	(30s); [Validation](https://www.youtube.com/watch?v=6vRVdImUEtE)	(10s); [Testing](https://www.youtube.com/watch?v=HduDtC7meZo)	(10s)
 			
 1. Human Talking	
-    * [Training](https://www.youtube.com/watch?v=kMhzo5Y-9nE)	(30s); [Validation](https://www.youtube.com/watch?v=4h52UFJ5gfc)	(10s); [Testing](https://www.youtube.com/watch?v=PaZiFsYWrs0)	(10s)
+    * [Training](https://www.youtube.com/watch?v=9x90y2M4iSE&t=101s)	(30s); [Validation](https://www.youtube.com/watch?v=pvjPzsLIyGw)	(10s); [Testing](https://www.youtube.com/watch?v=XrflFPDbD98)	(10s)
