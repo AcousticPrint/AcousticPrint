@@ -1,5 +1,20 @@
 # AcousticPrint
 
+
+## Team
+* [Harini Kolamunna](https://dblp.org/pers/k/Kolamunna:Harini.html) 
+* Junye Li, 
+* Thilini Dahanayake, 
+* [Suranga Seneviratne](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/suranga-seneviratne.html)
+* [Kanchana Thilakaratne](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/kanchana-thilakarathna.html)
+* [Albert Y. Zomaya](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/albert-zomaya.html) 
+* [Aruna Seneviratne](https://www.engineering.unsw.edu.au/electrical-engineering/professor-aruna-seneviratne) 
+
+
+## Media
+https://www.youtube.com/watch?v=s9kNu…
+
+
 ## Introduction
 *AcousticPrint* generates signature acoustic profiles for different classes of drones by using machine learning technologies that is capable of identify an oncomming acoustic signal is from any of the known classes or an outlier. The overview of the system architecture is shown below.
 ![System](/Images/Overview.png)
